@@ -1,0 +1,270 @@
+html, body {
+  font-family: Open sans;
+}
+
+header {
+  height: 100vh;
+  background-image: url(images/payments-banner-graphic.png);
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.bonsai {
+  display: flex;
+  justify-content: flex-start;
+  padding: 1.5%;
+}
+.bonsai img {
+  margin-top: 30%;
+  width: 16%;
+  height: 50%;
+}
+.bonsai p {
+  font-size: 120%;
+  padding: 5%;
+  color: white;
+}
+.log {
+  display: flex;
+  justify-content: flex-end;
+  width: 20%;
+  padding: 2%;
+}
+.log p {
+  width: 30%;
+  padding-left: 3%;
+  font-size: 90%;
+}
+.account {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  margin-top: 10%;
+  color: white;
+}
+#simple {
+  font-size: 250%;
+}
+.account a {
+  text-decoration: none;
+  font-size: 100%;
+  color: #9393C8;
+
+}
+
+.account p {
+font-size: 150%;
+margin-top: -20px;
+
+}
+
+.button1 {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: white;
+  width: 23%;
+  height: 50px;
+  text-align: center;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+.flex {
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  color: #717171;
+}
+.flex img {
+  width: 30%;
+  padding-top: 30%;
+}
+.element1 {
+  text-align: center;
+}
+.element2 {
+  text-align: center;
+}
+.element3 {
+  text-align: center;
+}
+hr {
+  color: rgb(241, 241, 241);
+  padding: 0;
+  margin: 0;
+
+}
+.flex2 {
+  text-align: center;
+  padding-top: 4%;
+  color: #717171;
+}
+
+.flex2 p {
+  font-size: 130%;
+  padding: 0;
+  margin: 0;
+}
+
+.section2 {
+  height: 300px;
+  background-color: #F6F9FB;
+}
+.align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 150px;
+}
+.align > p {
+  font-size: 500%;
+  color: #8080BE;
+
+}
+
+.align h1 {
+  padding: 0;
+  margin: 0;
+}
+.section3 {
+  height: 100px;
+  text-align: center;
+  background-color: #4C535C;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;}
+
+
+.price p {
+  font-size: 150%;
+  color: #F9F9FA;
+ }
+
+.row1 {
+  display: flex;
+  align-items: center;
+  height: 500px;
+  z-index: 1;
+
+
+}
+.blue {
+  width: 50%;
+  height: 500px;
+  background-color: #7CD5EF;
+
+}
+
+.ima {
+  position: relative;
+  width: 75%;
+margin-left: 12%;
+margin-top: 10%;
+}
+
+.integrate {
+  width: 50%;
+}
+
+.integrate p {
+  width: 50%;
+  padding-left: 25%;
+}
+
+.po {
+  font-size: 150%;
+   color: #7C7C7C;
+}
+
+.pa {
+  color: #AAAAAA;
+}
+
+
+.row2 {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  color: #7C7C7C;
+  z-index: 5;
+
+
+}
+
+.po {
+
+
+}
+.send {
+  z-index: 2;
+
+  width: 50%;
+}
+.coeur {
+  width: 50%;
+  background-color: #8080BE;
+  height: 500px;
+}
+
+.send p {
+  width: 50%;
+  padding-left: 25%;
+
+}
+
+.row3 {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  color: #7C7C7C;
+}
+.pad {
+  width: 50%;
+  background-color: #7CD5EF;
+  height: 500px;
+}
+.get {
+  width: 50%;
+}
+
+.get p {
+  width: 50%;
+  padding-left: 25%;
+}
+.free {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 250px;
+}
+.free p {
+  margin-top: 7%;
+  font-size: 150%;
+}
+.free a {
+  text-decoration: none;
+  color: white;
+
+}
+
+.button2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 15%;
+  width: 15%;
+  background-color: #00BA90;
+
+}
